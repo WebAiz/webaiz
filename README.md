@@ -7,7 +7,7 @@ frontend developer at [**BCC Business**](https://business.bcc.kz)
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 500k+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
-Outside of work, I'm interested in following the developments of science. I also passionate in art.
+Outside of work, I also do ART stuff
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@webaiz)
